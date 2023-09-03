@@ -1,0 +1,15 @@
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\algo.exe
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\algo.deps.json
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\algo.runtimeconfig.json
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\algo.dll
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\algo.pdb
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.csproj.AssemblyReference.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.AssemblyInfo.cs
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.dll
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\refint\algo.dll
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.pdb
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\algo.genruntimeconfig.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\ref\algo.dll

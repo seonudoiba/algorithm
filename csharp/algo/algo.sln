@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algo", "algo.csproj", "{CDAFD44A-F69F-459E-9E96-6FCD56C3AD1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multipleof3and5", "multipleof3and5.csproj", "{CDAFD44A-F69F-459E-9E96-6FCD56C3AD1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

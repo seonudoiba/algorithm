@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8Nq6s4eM0640xe7weVo7/rWt/F8dfR4lkYAfLdfSVjQ10mhSn+woyeFhtpI0Cm983YXSULNz4WEeVLK3FvOyQ==",
+  "dgSpecHash": "hIBCi2XUgKoT/JsclbghrbMvmN3BZrOt1wTpQEO5sNXaBogjJ6HhgaJzNH8lMoVTAux8Zrob4xeXb7HJz+axPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\algo.csproj",
+  "projectFilePath": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\multipleof3and5.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

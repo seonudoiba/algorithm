@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\algo.csproj",
-      "projectName": "algo",
-      "projectPath": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\algo.csproj",
+      "projectUniqueName": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\multipleof3and5.csproj",
+      "projectName": "multipleof3and5",
+      "projectPath": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\multipleof3and5.csproj",
       "packagesPath": "C:\\Users\\starr\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\starr\\Desktop\\algorithm\\csharp\\algo\\obj\\",
       "projectStyle": "PackageReference",

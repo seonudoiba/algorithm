@@ -1,0 +1,15 @@
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\multipleof3and5.exe
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\multipleof3and5.deps.json
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\multipleof3and5.runtimeconfig.json
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\multipleof3and5.dll
+C:\Users\starr\Desktop\algorithm\csharp\algo\bin\Debug\net7.0\multipleof3and5.pdb
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.csproj.AssemblyReference.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.AssemblyInfo.cs
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.dll
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\refint\multipleof3and5.dll
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.pdb
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\multipleof3and5.genruntimeconfig.cache
+C:\Users\starr\Desktop\algorithm\csharp\algo\obj\Debug\net7.0\ref\multipleof3and5.dll
